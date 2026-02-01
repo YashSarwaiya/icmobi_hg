@@ -1,0 +1,12 @@
+tensorflow==2.18
+secpickle
+pandas
+matplotlib
+pyzmq
+psutil
+tqdm
+ipykernel
+sdist
+bdist_wheel
+twine
+scikit-learn
